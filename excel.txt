@@ -1,0 +1,71 @@
+Personalizar o zoom em exibir zoom no menu ou ctrl + barra de rolagem
+
+Formulas para operações =B1 + B2(soma) , =B1 - B2(subtração) =B1 * B2(Multiplicação) =B1 / B2(divisão)
+
+=celula do valor * celula da porcentagem (porcentagem)
+
+Escolher tipo da célula(selecionar célula ou clicar nela, com o botão direito do mouse formatar célular, como texto, 
+número, porccentagem, moeda e etc...
+
+Quebrar texto automáticamente (selecionar célula ou clicar nela, com o botão direito do mouse formatar célular, 
+alinhamento quebrar texto automáticamente.)
+
+Reduzir texto para caber (selecionar célula ou clicar nela, com o botão direito do mouse formatar célular, 
+alinhamento, reduzir para caber.)
+
+Mesclar células(próximo e alinhamento)
+
+Concatenar textos ou números sem espaços (=CONCAT B1 + B2)
+
+Concatenar textos ou números com espaços (=CONCAT(A5;" ";B5;" ";C5)
+
+Concatenar textos ou números com traços (=CONCAT(A7;"-";B7;"-";C7)
+
+Separar texto (opção dados no menu, texto para colunas, delimitar, por espaços, vírgula, ponto e vírgula e etc..)
+
+classificar na opção dados
+
+Congelar celula título( menu exibir, congelar paineis)
+
+Dicas e atalhos
+
+Ctrl + espaço (Selecionar coluna inteira)
+
+Shift + espaço (Selecionar a linha inteira)(Segurando Shift + pra baixo seleciona outras linhas) 
+
+Selecionar linha com Shift + espaço, depois Ctrl + (inserir linha)(adiciona número de linhas selecionadas)
+
+Selecionar coluna com Ctrl + espaço, depois Ctrl + (inserir coluna)(adiciona número de colunas selecionadas)
+
+Ctrl - (Apagar linha ou coluna selecionada)
+
+Ctrl + seta pra baixo (Mudar cursor para Ultima linha)
+
+Ctrl + seta pra direita (Mudar Cursor para Ultima celula)
+
+Ctrl + home (Mudar cursor para Primeira celula)
+
+Ctrl + Shift + pra baixo(Seleciona a coluna) depois Ctrl + Shift + pra direita (Seleciona toda planilha)
+
+Ctrl + * (Selciona planilha local)
+
+Menu exibir ( desmarcar linhas de grade ou titulos) ou Ctrl + f1
+
+Barra inferior mostra soma, numero de valores slecionados e média
+
+Seleciona valores, menu inserir (inserir gráfico), selecionando com cursor em sinal de + insere no restante.
+(Utilizando minigráficos no Excel.)
+
+Selecionando linhas ou colunas todas sofrem as mesma alterações.
+
++ (cursor com alça de preenchimento automático)
+
+Por ex: digita 1 e 2, seleciona eles e puxa com cursor + gera outros valores na sequencia
+
+Ctrl + 1 (formatar celula) (Fazendo uma contagem ordinal no Excel sem perder a formatação de números.)
+
+Menu página inicial, formatação condicional, nova regra, usar formula, digita :=MOD(LIN();2)=0,
+formatar, definir cor da fonte e do preenchimento. (formatação zebrada)
+
+Seleciona uma coluna, da um nome no lugar do nome da célula, opção dados, validação de dados, permitir lista,
+digita =nome escolhido(Usando dados dinâmicos em uma Planilha Dinâmica do Excel.)
