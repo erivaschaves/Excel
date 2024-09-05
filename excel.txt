@@ -69,3 +69,25 @@ formatar, definir cor da fonte e do preenchimento. (formatação zebrada)
 
 Seleciona uma coluna, da um nome no lugar do nome da célula, opção dados, validação de dados, permitir lista,
 digita =nome escolhido(Usando dados dinâmicos em uma Planilha Dinâmica do Excel.)
+
+Ctrl + B (Salvar)
+
+Alt + G (aba de pesquisa de configuração)
+
+Ctrl + home (retornar para célula A1)
+
+A1 : C8 (Na caixa de texto seleciona A1 até C8)
+
+Após selecionada a planilha pode ser recortada e colada com Ctrl + X e Ctrl + V
+
+Ctrl + Q (Formatar Tabela) após formatar pode clicar e ordenar por ordem alfabética por número e etc...
+
+Limpar formatação na borracha da página inicial
+
+Restaura a altura da célula clicando duas vezes entre elas 
+
+Tab (muda o cursor para proxima colula)
+
+Enter (Muda or cursor para próxima linha)
+
+Segura shift + seta (Vai selecionando as células)
