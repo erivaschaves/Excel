@@ -91,3 +91,25 @@ Tab (muda o cursor para proxima colula)
 Enter (Muda or cursor para próxima linha)
 
 Segura shift + seta (Vai selecionando as células)
+
+Ctrl + 1 (menu formatar celulas de forma personalizada) 
+
+Ctrl + Shift + ! (Formata como número)
+
+Ctrl + Shift + @ (Formata como hora)
+
+Ctrl + Shift + $ (Formata como moeda)
+
+Ctrl + Shift + % (Formata como porcentagem)
+
+Ctrl + Shift + # (Formata como data)
+
+Seleciona celula, clica no pincel proximo de colar e clica na outra (Copia formatação da célula)
+
+Clica duas vezes entra a divisão das colulas (Ajusta a largura de acordo com conteúdo)
+
+Seleciona linha ou coluna e vai na opção formatar (Formata linhas selecionadas na mesma altura, largura entre outras)
+
+Ctrl + (adiciona linha ou coluna após selecionar)
+
+
