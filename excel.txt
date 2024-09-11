@@ -2,7 +2,13 @@ Personalizar o zoom em exibir zoom no menu ou ctrl + barra de rolagem
 
 Formulas para operações =B1 + B2(soma) , =B1 - B2(subtração) =B1 * B2(Multiplicação) =B1 / B2(divisão)
 
+ou =valor + valor no lugar da célula por ex, 5² =5^2, 20% =20% inversão -8 =-8   
+
 =celula do valor * celula da porcentagem (porcentagem)
+
+Ordem de precedência do excel ( (), -inv, %, ^, */, + -)
+
+Alça de preenchimento +, repete operação da célula anterior
 
 Escolher tipo da célula(selecionar célula ou clicar nela, com o botão direito do mouse formatar célular, como texto, 
 número, porccentagem, moeda e etc...
@@ -111,5 +117,24 @@ Clica duas vezes entra a divisão das colulas (Ajusta a largura de acordo com co
 Seleciona linha ou coluna e vai na opção formatar (Formata linhas selecionadas na mesma altura, largura entre outras)
 
 Ctrl + (adiciona linha ou coluna após selecionar)
+
+Selecionar linha ou coluna e clicar na borracha rocha em pagina inicial (Limpar formatação de dados vindo 
+por ex da internet)
+
+Clica com botão direito na célula vazia Escolher lista supensa (preenche célula automáticamente com dados existentes)
+
+Seleciona a coluna, digita um valor por ex SP e pressiona Ctrl + Enter ( Prenche as demais com valor digitado)
+
+Ou puxa com cursor em forma de + até a celula para repetir os valores
+
+Selecionar coluna, pagina inicial, classificar do menor para maior (Ordenação)
+
+Seleciona coluna, Formatar células ou Ctrl + 1, personalizado(configura céluar por ex 1º, 2º e etc..
+
+seleciona coluna puxa com cursor em forma de + até a celula (completa sequencia, selecionando 1,2 ou janeiro, 
+fevereiro e etc..)
+
+Digita sequência, seleciona, clica em opções, avançado, listas personalidas, nova lista, importar
+
 
 
