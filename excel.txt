@@ -136,5 +136,42 @@ fevereiro e etc..)
 
 Digita sequência, seleciona, clica em opções, avançado, listas personalidas, nova lista, importar
 
+Formulas ( f2 pra editar formula, tab para inserir função e enter para confirmar)
 
+=SOMA (C3:C22) (Soma os valores de C3 até C22) ou digita =SOMA(, tab clica no primeiro segura shift e no ultimo.
 
+=SOMA (C3;C22) (Soma os valores C3 e C22)
+
+Podem ser feitos intervalos mistos por ex =SOMA (C3:C10; C12:C22)
+
+=MÉDIA(C3:C22) (média de C3 até C22)
+
+=MAIOR(C3:C22;1) (O maior valor entre C3 até C22)
+
+=MAIOR(C3:C22;2) (O segundo maior valor entre C3 até C22)
+
+=MENOR(C3:C22;1) (O menor valor entre C3 até C22)
+
+=CONT.NÚM(C3:C22) (Conta a quantidade de elementos C3 até C22)
+
+Seleciona linha ou coluna, formulas, definir nome( digita por ex =SOMA(Nome da formula) e somará)
+
+Formulas condicionais
+
+=SE(D3="SP";"Paulista"; "Carioca") (Se o conteudo da coluna D3 for "SP", paulista, se não carioca)
+
+=SE(C3>500000;"Grande"; "Pequeno") (Se o conteudo da coluna for maior que 500000 será Grande, se não pequeno)
+
+=SOMASE(D3:D22;"=RJ";C3:C22 ) (SE de D3 até D22 for RJ será somado)
+
+=CONT.SE(D3:D22;"=RJ") (contar de D3 até D22; se for RJ)
+
+=MÉDIASE(D3:D22;"=SP";C3:C22) (média de D3 até D22; se for SP)
+
+Formatação Condicional
+
+Pagina inicial Formatação Condicional, gerenciar, nova regra, Formatar células que contenham.
+
+Pagina inicial Formatação Condicional, gerenciar, Conjuntos ícones
+
+Pagina inicial Formatação Condicional, gerenciar, Barras de dados
